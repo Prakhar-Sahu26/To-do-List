@@ -1,4 +1,4 @@
-o-Do List App 📝
+To-Do List App 📝
 
 This is a simple and interactive To-Do List application built with React.js. The app allows users to add and delete tasks, making it a perfect tool for managing daily activities efficiently.
 Features ✨
