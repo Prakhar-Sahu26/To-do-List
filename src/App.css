@@ -1,0 +1,58 @@
+body
+{
+  background-image: url("background.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.nameList{
+  border: solid black 4px;
+  width: auto;
+}
+input{
+  margin: 1rem;
+  font-size: larger;
+  padding: 10px;
+  border: solid rgb(0, 0, 0) 2px;
+}
+.task{
+  border: solid rgb(0, 0, 0) 2px;
+  border-radius: 10px;
+  display: flex;
+  padding: 10px;
+  list-style: none;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.maincontainer{
+  width: 70%;
+  margin-top: 80px;
+}
+button{
+  cursor: pointer;
+}
+.addbtn{
+  font-size: large;
+  border-radius: 5px;
+}
+
+.maincontainer h1
+{
+font-size: 60px;
+}
+
+.tasknamespan
+{
+  font-size: 25px;
+}
+
+.taskdatespan
+{
+  font-size: 20px;
+}
+
+.nothing
+{
+  font-size: 2.5rem;
+}
